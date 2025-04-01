@@ -6,8 +6,11 @@ Cypress tests, allure report, stub network requests with Cypress
 
 ### Requirements
 NodeJS and npm installed
+
 Current tests were developed on Ubuntu 20.04LTS using:
+
 `node version 17.9.0` and `npm version 8.5.5`
+
 All browsers where tests should be executed must be installed separately, Cypress only has Electron in package.
 
 ### Allure reporting requirements
